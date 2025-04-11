@@ -1,0 +1,116 @@
+#corpo {
+    border: 3px solid black;
+    width: auto;
+    height: auto;
+}
+
+
+
+
+#topo  {
+border: 3px solid rgb(225, 0, 255);
+width: auto;
+height: 100px;
+}
+
+
+#Menu  {
+    border: 3px solid rgb(255, 0, 85);
+    width: auto;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between
+    }
+#botao1 {
+    border: 3px solid rgb(0, 183, 255);
+    width: 500px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    }
+#botao2 {
+    border: 3px solid rgb(0, 255, 76);
+    width: 500px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    }  
+#botao3 {
+    border: 3px solid rgb(229, 255, 0);
+    width: 500px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    }  
+#botao4 {
+    border: 3px solid rgb(255, 136, 0);
+    width: 500px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    }
+#botao5 {
+    border: 3px solid rgb(173, 77, 77);
+    width: 500px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    }      
+   
+#conteudo {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+
+
+
+#centro {
+border: 3px solid rgb(0, 4, 255);
+width: 1000px;
+height: 750px;
+}
+
+
+
+
+#direita {
+border: 3px solid red;
+width: 450px;
+height: 750px;
+}
+
+
+
+
+#esquerda {
+border: 3px solid rgb(0, 255, 64);
+width: 450px;
+height: 750px;
+}
+
+
+
+
+#rodape {
+border: 3px solid rgb(0, 255, 179);
+width: auto;
+height: 50px;
+display: flex;
+}
+
+
+
+
